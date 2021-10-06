@@ -1,5 +1,5 @@
 {
-    "sketch": "amore\\amore.ino",
+    "sketch": "rgb\\rgb.ino",
     "port": "COM3",
     "board": "arduino:avr:uno"
 }
