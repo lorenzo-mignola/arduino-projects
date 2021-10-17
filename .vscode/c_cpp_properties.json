@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Arduino",
-            "compilerPath": "C:\\Users\\loren\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5\\bin\\avr-g++",
+            "compilerPath": "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/avr-g++",
             "compilerArgs": [
                 "-std=gnu++11",
                 "-fpermissive",
@@ -15,14 +15,14 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Users\\loren\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\cores\\arduino",
-                "C:\\Users\\loren\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\variants\\standard",
-                "c:\\users\\loren\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5\\lib\\gcc\\avr\\7.3.0\\include",
-                "c:\\users\\loren\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5\\lib\\gcc\\avr\\7.3.0\\include-fixed",
-                "c:\\users\\loren\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5\\avr\\include"
+                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.2/cores/arduino",
+                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.2/variants/standard",
+                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/lib/gcc/avr/7.3.0/include",
+                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/lib/gcc/avr/7.3.0/include-fixed",
+                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include"
             ],
             "forcedInclude": [
-                "C:\\Users\\loren\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\cores\\arduino\\Arduino.h"
+                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.2/cores/arduino/Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
