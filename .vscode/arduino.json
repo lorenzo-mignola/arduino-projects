@@ -1,5 +1,6 @@
 {
-    "sketch": "clessidra/clessidra.ino",
+    "sketch": "zootropio/zootropio.ino",
     "board": "arduino:avr:uno",
-    "port": "/dev/ttyACM0"
+    "port": "/dev/ttyACM1",
+    "output": "./build"
 }

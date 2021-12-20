@@ -3,8 +3,9 @@
     "configurations": [
         {
             "name": "Arduino",
-            "compilerPath": "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/bin/avr-g++",
+            "compilerPath": "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
             "compilerArgs": [
+                "-w",
                 "-std=gnu++11",
                 "-fpermissive",
                 "-fno-exceptions",
@@ -15,20 +16,20 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.2/cores/arduino",
-                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.2/variants/standard",
-                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/lib/gcc/avr/7.3.0/include",
-                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/lib/gcc/avr/7.3.0/include-fixed",
-                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include"
+                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.4/cores/arduino",
+                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.4/variants/standard",
+                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/lib/gcc/avr/7.3.0/include",
+                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/lib/gcc/avr/7.3.0/include-fixed",
+                "/home/lorenzo/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include"
             ],
             "forcedInclude": [
-                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.2/cores/arduino/Arduino.h"
+                "/home/lorenzo/.arduino15/packages/arduino/hardware/avr/1.8.4/cores/arduino/Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
             "defines": [
                 "F_CPU=16000000L",
-                "ARDUINO=10816",
+                "ARDUINO=10607",
                 "ARDUINO_AVR_UNO",
                 "ARDUINO_ARCH_AVR",
                 "__DBL_MIN_EXP__=(-125)",
