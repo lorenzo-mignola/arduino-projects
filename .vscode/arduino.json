@@ -1,6 +1,6 @@
 {
-    "sketch": "zootropio/zootropio.ino",
+    "sketch": "schermo/schermo.ino",
     "board": "arduino:avr:uno",
-    "port": "/dev/ttyACM1",
+    "port": "/dev/ttyACM0",
     "output": "./build"
 }
