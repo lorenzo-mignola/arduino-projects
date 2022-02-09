@@ -1,5 +1,5 @@
 {
-    "sketch": "schermo/schermo.ino",
+    "sketch": "terremoto/terremoto.ino",
     "board": "arduino:avr:uno",
     "port": "/dev/ttyACM0",
     "output": "./build"
